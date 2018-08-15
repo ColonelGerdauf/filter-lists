@@ -1,13 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Gerdauf's Filters
-! Expires: 4 days (update frequency)
+! Expires: 7 days (update frequency)
 ! Last modified:
 
 127.0.0.1 pinterest.com
+127.0.0.1 pinterest.com.au
 127.0.0.1 pinterest.ca 
 127.0.0.1 pinterest.ch
 127.0.0.1 pinterest.de
+127.0.0.1 pinterest.fr 
 127.0.0.1 pinterest.nz 
+127.0.0.1 pinterest.ru
 
 
 127.0.0.1 api.redshell.io
