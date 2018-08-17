@@ -3,15 +3,15 @@
 ! Expires: 7 days (update frequency)
 ! Last modified:
 
-127.0.0.1 pinterest.com
-127.0.0.1 pinterest.com.au
-127.0.0.1 pinterest.ca 
-127.0.0.1 pinterest.ch
-127.0.0.1 pinterest.de
-127.0.0.1 pinterest.fr 
-127.0.0.1 pinterest.nz 
-127.0.0.1 pinterest.ru
+pinterest.com
+pinterest.com.au
+pinterest.ca 
+pinterest.ch
+pinterest.de
+pinterest.fr 
+pinterest.nz 
+pinterest.ru
 
 
-127.0.0.1 api.redshell.io
-127.0.0.1 in.treasuredata.com
+api.redshell.io
+in.treasuredata.com
