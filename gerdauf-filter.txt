@@ -3,6 +3,7 @@
 ! Expires: 7 days (update frequency)
 ! Last modified:
 
+pinterest.at
 pinterest.co.uk
 pinterest.com
 pinterest.com.au
