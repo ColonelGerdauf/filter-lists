@@ -3,15 +3,20 @@
 ! Expires: 7 days (update frequency)
 ! Last modified:
 
+pinterest.co.uk
 pinterest.com
 pinterest.com.au
+pinterest.com.vn
 pinterest.ca 
 pinterest.ch
 pinterest.de
 pinterest.fr 
+pinterest.ie
+pinterest.it
 pinterest.nz 
 pinterest.pt
 pinterest.ru
+pinterest.se
 
 
 api.redshell.io
