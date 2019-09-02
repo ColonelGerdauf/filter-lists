@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Gerdauf's Filters
-! Version: 00000005
+! Version: 00000006
 ! Expires: 7 days (update frequency)
 ! Last modified: 02 Sep 2019 14:00 UTC
 
@@ -23,3 +23,14 @@ pinterest.se
 
 api.redshell.io
 in.treasuredata.com
+mcafee.com
+monsterstore.com
+mymonsteraudio.com
+monsterproducts.eu
+wish.com
+ca.norton.com
+norton.com
+get.adobe.com/flashplayer
+get.adobe.com/reader/
+ask.com
+hotspotshield.com
