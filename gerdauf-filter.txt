@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Gerdauf's Filters
 ! Expires: 7 days (update frequency)
-! Last modified:
+! Last modified: 02 Sep 2019 14:00 UTC
 
 pinterest.at
 pinterest.co.uk
