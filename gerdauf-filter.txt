@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Gerdauf's Filters
-! Version: 00000006
+! Version: 00000007
 ! Expires: 7 days (update frequency)
-! Last modified: 02 Sep 2019 14:00 UTC
+! Last modified: 13 Oct 2019 00:34 UTC
 
 pinterest.at
 pinterest.co.uk
@@ -30,7 +30,5 @@ monsterproducts.eu
 wish.com
 ca.norton.com
 norton.com
-get.adobe.com/flashplayer
-get.adobe.com/reader/
 ask.com
 hotspotshield.com
