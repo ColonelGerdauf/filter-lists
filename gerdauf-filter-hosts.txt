@@ -1,3 +1,10 @@
+#
+# Project home page: https://github.com/anudeepND/blacklist
+# Title: Gerdauf List
+# Expires: 7 days
+# Domain count: 26
+# ===============================================================
+
 0.0.0.0 pinterest.at
 0.0.0.0 pinterest.co.uk
 0.0.0.0 pinterest.com
