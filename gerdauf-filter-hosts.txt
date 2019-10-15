@@ -1,7 +1,7 @@
 # ===============================================================
 # Title: Gerdauf List
 # Expires: 7 days
-# Domain count: 26
+# Domain count: 1'161
 # ===============================================================
 
 # Domains of questionable businesses
