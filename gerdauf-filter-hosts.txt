@@ -33,6 +33,10 @@
 0.0.0.0 pinterest.pt
 0.0.0.0 pinterest.ru
 0.0.0.0 pinterest.se
+0.0.0.0 84.0.101.151.in-addr.arpa
+0.0.0.0 84.64.101.151.in-addr.arpa
+0.0.0.0 84.128.101.151.in-addr.arpa
+0.0.0.0 84.192.101.151.in-addr.arpa
 
 # SU Domains
 0.0.0.0 register.su
