@@ -17,7 +17,7 @@ norton.com
 ask.com
 hotspotshield.com
 
-!Pinterest sub-domains
+! Pinterest sub-domains
 pinterest.at
 pinterest.co.uk
 pinterest.com
