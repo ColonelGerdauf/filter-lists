@@ -1,5 +1,4 @@
-#
-# Project home page: https://github.com/anudeepND/blacklist
+# ===============================================================
 # Title: Gerdauf List
 # Expires: 7 days
 # Domain count: 26
