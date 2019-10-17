@@ -33,10 +33,6 @@ pinterest.nz
 pinterest.pt
 pinterest.ru
 pinterest.se
-84.0.101.151.in-addr.arpa
-84.64.101.151.in-addr.arpa
-84.128.101.151.in-addr.arpa
-84.192.101.151.in-addr.arpa
 
 ! SU Domains
 register.su
