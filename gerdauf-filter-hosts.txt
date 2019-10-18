@@ -34,20 +34,26 @@ ff02::3		ip6-allhosts
 
 # Pinterest sub-domains
 0.0.0.0 pinterest.at
-0.0.0.0 pinterest.co.uk
-0.0.0.0 pinterest.com
-0.0.0.0 pinterest.com.au
-0.0.0.0 pinterest.com.vn
+0.0.0.0 www.pinterest.at 0.0.0.0 pinterest.co.uk
+0.0.0.0 www.pinterest.co.uk
+0.0.0.0 pinterest.com 
+0.0.0.0 www.pinterest.com
+0.0.0.0 pinterest.com.au 0.0.0.0 www.pinterest.com.au 0.0.0.0 pinterest.com.vn
+0.0.0.0 www.pinterest.com.vn
 0.0.0.0 pinterest.ca 
-0.0.0.0 pinterest.ch
+0.0.0.0 www.pinterest.ca
+0.0.0.0 pinterest.ch 
+0.0.0.0 www.pinterest.ch
 0.0.0.0 pinterest.de
-0.0.0.0 pinterest.fr 
-0.0.0.0 pinterest.ie
-0.0.0.0 pinterest.it
-0.0.0.0 pinterest.nz 
-0.0.0.0 pinterest.pt
-0.0.0.0 pinterest.ru
-0.0.0.0 pinterest.se
+0.0.0.0 www.pinterest.de 0.0.0.0 pinterest.fr
+0.0.0.0 www.pinterest.fr 0.0.0.0 pinterest.ie
+0.0.0.0 www.pinterest.ie 0.0.0.0 pinterest.it
+0.0.0.0 www.pinterest.it 0.0.0.0 pinterest.nz
+0.0.0.0 www.pinterest.nz 0.0.0.0 pinterest.pt
+0.0.0.0 www.pinterest.pt 0.0.0.0 pinterest.ru
+0.0.0.0 www.pinterest.ru 0.0.0.0 pinterest.se
+0.0.0.0 www.pinterest.se
+0.0.0.0 accounts.pinterest.com
 
 # SU Domains
 0.0.0.0 register.su
