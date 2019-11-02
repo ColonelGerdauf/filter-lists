@@ -16,6 +16,7 @@ ca.norton.com
 norton.com
 ask.com
 hotspotshield.com
+utorrent.com
 
 ! Pinterest sub-domains
 pinterest.at
