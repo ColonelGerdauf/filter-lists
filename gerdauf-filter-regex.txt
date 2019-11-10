@@ -1,0 +1,11 @@
+# Author: Colonel_Gerdauf
+
+^([a-zA-Z0-9]+[.])*pinterest\.([A-zA-Z0-9]+[.])*[a-z]+$
+^([a-zA-Z0-9]+[.|-|_|@])*advert(s|is(ing|ements?))\.([a-zA-Z0-9]+[.|-|_|@])*[a-z]+$
+^([a-zA-Z0-9]+[.|-|_|@])*analytics\.([a-zA-Z0-9]+[.|-|_|@])*[a-z]+$
+^([a-zA-Z0-9]+[.|-|_|@])*telemetry\.([a-zA-Z0-9]+[.|-|_|@])*[a-z]+$
+^([a-zA-Z0-9]+[.|-|_|@])*yahoo\.([a-zA-Z0-9]+[.|-|_|@])*[a-z]+$
+^([a-zA-Z0-9¡-ɏḂ-ỳⱠ-Ɀ꜠-ꟿꬰ-ꭧ]+[.])+va$
+^([a-zA-Z0-9Ѐ–ԯ ⷠ - ⷿ Ꙁ-ꚟ]+[.])+su$
+^([a-zA-Z0-9ㄱ-ㆎ]+[.])+kp$
+^r[0-9]{1,3}---sn-[a-zA-Z0-9]{8}\.googlevideo\.com$
