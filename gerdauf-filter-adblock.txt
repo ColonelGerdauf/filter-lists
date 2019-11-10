@@ -2,7 +2,18 @@
 ! Title: Gerdauf's Filters
 ! Version: 00000007
 ! Expires: 7 days (update frequency)
-! Last modified: 13 Oct 2019 00:34 UTC
+! Last modified: 10 Nov 2019 17:44 UTC
+
+! borrowed from gerdauf-filter-regex.txt
+^([a-zA-Z0-9]+[.])*pinterest\.([A-zA-Z0-9]+[.])*[a-z]+$
+^([a-zA-Z0-9]+[.|-|_|@])*advert(s|is(ing|ements?))\.([a-zA-Z0-9]+[.|-|_|@])*[a-z]+$
+^([a-zA-Z0-9]+[.|-|_|@])*analytics\.([a-zA-Z0-9]+[.|-|_|@])*[a-z]+$
+^([a-zA-Z0-9]+[.|-|_|@])*telemetry\.([a-zA-Z0-9]+[.|-|_|@])*[a-z]+$
+^([a-zA-Z0-9]+[.|-|_|@])*yahoo\.([a-zA-Z0-9]+[.|-|_|@])*[a-z]+$
+^([a-zA-Z0-9Â¡-Éá¸‚-á»³â± -â±¿êœ -êŸ¿ê¬°-ê­§]+[.])+va$
+^([a-zA-Z0-9Ð€â€“Ô¯ â·  - â·¿ ê™€-êšŸ]+[.])+su$
+^([a-zA-Z0-9ã„±-ã†Ž]+[.])+kp$
+^r[0-9]{1,3}---sn-[a-zA-Z0-9]{8}\.googlevideo\.com$
 
 ! domains of questionable businesses
 api.redshell.io
