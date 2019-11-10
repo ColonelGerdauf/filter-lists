@@ -32,6 +32,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 ask.com
 0.0.0.0 hotspotshield.com
 0.0.0.0 utorrent.com
+0.0.0.0 foxnews.com
+0.0.0.0 foxbusiness.com
 
 # Pinterest sub-domains
 0.0.0.0 pinterest.at
