@@ -17,6 +17,8 @@ norton.com
 ask.com
 hotspotshield.com
 utorrent.com
+foxbusiness.com
+foxnews.com
 
 ! Pinterest sub-domains
 pinterest.at
