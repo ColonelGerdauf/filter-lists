@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Gerdauf's Filters
-! Version: 00000008
+! Version: 00000009
 ! Expires: 7 days (update frequency)
 ! Last modified: 10 Nov 2019 17:44 UTC
 
