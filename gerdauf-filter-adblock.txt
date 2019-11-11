@@ -2,7 +2,7 @@
 ! Title: Gerdauf's Filters
 ! Version: 00000010
 ! Expires: 7 days (update frequency)
-! Last modified: 10 Nov 2019 17:44 UTC
+! Last modified: 11 Nov 2019 1:37 UTC
 
 ! borrowed from gerdauf-filter-regex.txt
 ^([a-zA-Z0-9]+[.])*pinterest\.([A-zA-Z0-9]+[.])*[a-z]+$
