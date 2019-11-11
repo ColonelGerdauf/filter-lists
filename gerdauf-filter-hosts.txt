@@ -134,7 +134,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bukvar.su
 0.0.0.0 php.su
 0.0.0.0 vseskazki.su
-0.0.0.0 god201su
+0.0.0.0 god2018.su
 0.0.0.0 msu.su
 0.0.0.0 dom2seychelles.su
 0.0.0.0 games-two.su
