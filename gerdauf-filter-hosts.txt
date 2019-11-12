@@ -242,7 +242,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 nsk.su
 0.0.0.0 leads.su
 0.0.0.0 juventus.su
-0.0.0.0 dnr2su
+0.0.0.0 dnr24.su
 0.0.0.0 ladylike.su
 0.0.0.0 ohara.su
 0.0.0.0 novostroy.su
@@ -253,7 +253,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 novokuznetsk.su
 0.0.0.0 iloveasia.su
 0.0.0.0 2dip.su
-0.0.0.0 2xsu
+0.0.0.0 2x2.su
 0.0.0.0 gsmforum.su
 0.0.0.0 audiomaster.su
 0.0.0.0 xn--h1adbc.su
@@ -345,7 +345,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 sonline.su
 0.0.0.0 hitgames.su
 0.0.0.0 vinformer.su
-0.0.0.0 obdsu
+0.0.0.0 obd2.su
 0.0.0.0 xu.su
 0.0.0.0 dom2efir.su
 0.0.0.0 rawr.su
@@ -393,7 +393,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ssoft.su
 0.0.0.0 politinform.su
 0.0.0.0 animated-gif.su
-0.0.0.0 twsu
+0.0.0.0 tw1.su
 0.0.0.0 uhf.su
 0.0.0.0 strofa.su
 0.0.0.0 vsetop.su
@@ -414,7 +414,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 sexicelebs.su
 0.0.0.0 mana.su
 0.0.0.0 arlight.su
-0.0.0.0 e3su
+0.0.0.0 e34.su
 0.0.0.0 records.su
 0.0.0.0 sander.su
 0.0.0.0 trmk.moy.su
@@ -424,7 +424,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 vzv.su
 0.0.0.0 microchip.su
 0.0.0.0 dostupno.su
-0.0.0.0 whsu
+0.0.0.0 wh1.su
 0.0.0.0 omsk.su
 0.0.0.0 underverse.su
 0.0.0.0 windows-phone-su
