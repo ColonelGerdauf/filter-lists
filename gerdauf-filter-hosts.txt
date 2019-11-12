@@ -204,7 +204,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 polza-vred.su
 0.0.0.0 workout.su
 0.0.0.0 aybnews.su
-0.0.0.0 192-168-0-su
+0.0.0.0 192-168-0-1.su
 0.0.0.0 luxemusic.su
 0.0.0.0 litera.su
 0.0.0.0 vlmi.su
@@ -212,7 +212,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 proglang.su
 0.0.0.0 calcs.su
 0.0.0.0 kitchenguide.su
-0.0.0.0 192-168-1-su
+0.0.0.0 192-168-1-1.su
 0.0.0.0 pinoytambayanhd.su
 0.0.0.0 auto-mir.su
 0.0.0.0 rockstargames.su
