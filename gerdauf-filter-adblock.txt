@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Gerdauf's Filters
-! Version: 00000010
+! Version: 00000011
 ! Expires: 7 days (update frequency)
-! Last modified: 11 Nov 2019 1:37 UTC
+! Last modified: 19 Nov 2019 13:57 UTC
 
 ! borrowed from gerdauf-filter-regex.txt
 ^([a-zA-Z0-9]+[.])*pinterest\.([A-zA-Z0-9]+[.])*[a-z]+$
@@ -30,3 +30,6 @@ hotspotshield.com
 utorrent.com
 foxbusiness.com
 foxnews.com
+www.g2a.com
+g2a.com
+plus.g2a.com
