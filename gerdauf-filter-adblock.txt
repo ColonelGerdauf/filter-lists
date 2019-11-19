@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Gerdauf's Filters
-! Version: 00000011
+! Version: 00000012
 ! Expires: 7 days (update frequency)
-! Last modified: 19 Nov 2019 13:57 UTC
+! Last modified: 19 Nov 2019 15:07 UTC
 
 ! borrowed from gerdauf-filter-regex.txt
 ^([a-zA-Z0-9]+[.])*pinterest\.([A-zA-Z0-9]+[.])*[a-z]+$
@@ -14,6 +14,65 @@
 ^([a-zA-Z0-9Ð€â€“Ô¯ â·  - â·¿ ê™€-êšŸ]+[.])+su$
 ^([a-zA-Z0-9ã„±-ã†Ž]+[.])+kp$
 ^r[0-9]{1,3}---sn-[a-zA-Z0-9]{8}\.googlevideo\.com$
+
+! big data sub-domains
+aax-eu.amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
+aax-us-west.amazon-adsystem.com
+activity.windows.com
+ad.doubleclick.com
+ade.googlesyndication.com
+ads.adrise.tv
+ads.mopub.com
+ads.rubiconproject.com
+analytics-ingestion.production-public.tubi.io
+api.monetizer101.com
+austin.logs.roku.com
+c.amazon-adsystem.com
+customer-feedbacks.web.roku.com
+device-metrics-ca.amazon.com
+device-metrics-eu.amazon.com
+device-metrics-uk.amazon.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+diagnostics.meethue.com
+e.crashlytics.com
+engine._google-analytics._tcp.steelseries.com
+firebaselogging.googleapis.com
+googleads.g.doubleclick.net
+graph.facebook.com
+improving.duckduckgo.com
+mads.amazon-adsystem.com
+mads.amazon.com
+marketing.dropbox.com
+metrics.icloud.com
+mobileanalytics.us-east-1.amazonaws.com
+paella.adrise.tv
+pagead2.googlesyndication.com
+pubads.g.doubleclick.net
+s.amazon-adsystem.com
+scribe.logs.roku.com
+secure.adnxs.com
+securepubads.g.doubleclick.net
+services.gfe.nvidia.com
+settings.crashlytics.com
+smetrics.theweathernetwork.com
+snippetdata.api.swiftkey.com
+ssl.google-analytics.com
+static.doubleclick.net
+stats.g.doubleclick.net
+sur.telemetry.intel.com
+tags-cdn.deployads.com
+telemetry-in.battle.net
+telemetry.api.swiftkey.com
+telemetry.dropbox.com
+traces.sr.roku.com
+track.sr.roku.com
+vortex.data.microsoft.com
+watson.telemetry.microsoft.com
+www.google-analytics.com
+www.googleadservices.com
+z-na.amazon-adsystems.com
 
 ! domains of questionable businesses
 api.redshell.io
