@@ -1,3 +1,6 @@
+set param1="##---2050F9794DD06B58FEDFBFB17E18A0D855B815CBAF51C5DCFE52A138CED7A909FE8096904E4D2A4653C6FF87CE0B4400B0E2B9F9930FC8AC2B9285B0F4508B50---##"
+set param2="##---2D162732FB0920A7DB911ECF4AFBC6FDB5962D3F9C74DE3D41ED016A321214B06F7EC5978B9AAE719AF325253C549045197A665C43C15813706985065063859E---##"
 set data=https://raw.githubusercontent.com/ColonelGerdauf/filter-lists/master/raw-data/gerdauf-filter-hosts.txt
-data>%SystemRoot%\System32\drivers\etc\hosts
 
+sed -i %SystemRoot%\System32\drivers\etc\hosts
+param1+data+param2>>%SystemRoot%\System32\drivers\etc\hosts
