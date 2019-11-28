@@ -71,8 +71,8 @@ traces.sr.roku.com
 track.sr.roku.com
 vortex.data.microsoft.com
 watson.telemetry.microsoft.com
-www.google-analytics.com
-www.googleadservices.com
+google-analytics.com
+googleadservices.com
 z-na.amazon-adsystems.com
 
 ! domains of questionable businesses
