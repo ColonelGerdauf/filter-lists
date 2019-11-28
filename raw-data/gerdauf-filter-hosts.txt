@@ -73,8 +73,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 track.sr.roku.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 www.googleadservices.com
+0.0.0.0 google-analytics.com
+0.0.0.0 googleadservices.com
 0.0.0.0 z-na.amazon-adsystems.com
 
 # Domains of questionable businesses
