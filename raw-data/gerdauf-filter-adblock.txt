@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Gerdauf's Filters
-! Version: 00000013
+! Version: 00000014
 ! Expires: 7 days (update frequency)
-! Last modified: 19 Nov 2019 15:15 UTC
+! Last modified: 28 Nov 2019 15:37 UTC
 
 ! borrowed from gerdauf-filter-regex.txt
 ^([a-zA-Z0-9]+[.])*pinterest\.([A-zA-Z0-9]+[.])*[a-z]+$
