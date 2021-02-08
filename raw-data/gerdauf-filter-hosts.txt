@@ -95,6 +95,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.g2a.com
 0.0.0.0 g2a.com
 0.0.0.0 plus.g2a.com
+0.0.0.0 mypillow.com
 
 # Pinterest sub-domains
 0.0.0.0 pinterest.at
