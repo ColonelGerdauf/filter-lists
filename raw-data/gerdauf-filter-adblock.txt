@@ -2,7 +2,7 @@
 ! Title: Gerdauf's Filters
 ! Version: 00000014
 ! Expires: 7 days (update frequency)
-! Last modified: 28 Nov 2019 15:37 UTC
+! Last modified: 8 Feb 2021 21:20 UTC
 
 ! borrowed from gerdauf-filter-regex.txt
 ^([\w]+[\.])*pinterest\.([\w]+[\.])*[a-z]+$
@@ -93,3 +93,4 @@ foxnews.com
 www.g2a.com
 g2a.com
 plus.g2a.com
+mypillow.com
