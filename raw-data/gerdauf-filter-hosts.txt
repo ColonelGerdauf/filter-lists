@@ -104,6 +104,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 etsource.epicgames.com
 0.0.0.0 metrics.ol.epicgames.com
 0.0.0.0 datarouter.ol.epicgames.com
+0.0.0.0 truthsocial.com
 
 # Pinterest sub-domains
 0.0.0.0 pinterest.at
