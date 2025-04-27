@@ -103,3 +103,4 @@ etsource.epicgames.com
 metrics.ol.epicgames.com
 datarouter.ol.epicgames.com
 truthsocial.com
+publicsquare.com
